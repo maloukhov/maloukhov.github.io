@@ -1,8 +1,8 @@
 # Site settings
-title:       Быстрая разработка и поставка
+title:       maloukhov.github.io
 email:       email@email.com
 author:      Игнат
-description: "Блог"
+description: "Блог о быстрой разработке и поставке"
 baseurl:     ""
 url:         "https://maloukhov.github.io/"
 date_format: "%b %-d, %Y"
