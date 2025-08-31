@@ -10,7 +10,7 @@ The following is an overview to copying and sharing Pixyll.[^1]
 
 Most people have an understanding of what the copyright and licensing obligations are for source code, but not everyone has practical experience.  There is a lot of information about how to use free and open source source code generally, but not necessarily how it works specifically.
 
-## Basics
+## Basics111
 
 Pixyll is free and open source software under the MIT license, a _permissive license_.  You can use Pixyll without charge and it is provided to you, "as is", without warranty of any kind.
 
