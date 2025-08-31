@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://maloukhov.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
-  - empty.md
+  - manifest.md
 # - about.md
 
 # Google services
