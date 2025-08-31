@@ -3,6 +3,11 @@ _site
 .DS_Store
 .jekyll-metadata
 
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
 
