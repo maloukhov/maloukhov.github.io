@@ -2,7 +2,7 @@
 title:       Быстрая разработка и поставка
 email:       email@email.com
 author:      Игнат
-description: "Блог про быструю разработку и поставку"
+description: "Блог"
 baseurl:     ""
 url:         "https://maloukhov.github.io/"
 date_format: "%b %-d, %Y"
